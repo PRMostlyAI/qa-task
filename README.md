@@ -13,13 +13,13 @@ This repository contains a solution to the challenge sent over the email.
 ```
 .
 ├── pages/
-│   ├── homepagea.js        # Homepage elements and actions
-│   ├── contact.js         # Contact page elements and actions
-│   └── search_results.js  # Search results page elements and checks
+│   ├── homepage.js        # Homepage elements and actions
+│   ├── contactPage.js         # Contact page elements and actions
+│   └── searchResults.js  # Search results page elements and checks
 ├── tests/
 │   ├── homepage.test.js    # Homepage navigation tests
 │   ├── search.test.js      # Search functionality tests
-│   └── contact_form.test.js # Contact form tests
+│   └── contactForm.test.js # Contact form tests
 ├── fixtures.js            # Page object fixtures for tests
 ├── playwright.config.js   # Playwright configuration
 └── README.md             # This file
