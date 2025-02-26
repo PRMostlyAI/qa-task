@@ -1,0 +1,22 @@
+# Test reports and artifacts
+/allure-report/
+/allure-results/
+/playwright-report/
+/test-results/
+/blob-report/
+/videos/
+/screenshots/
+/playwright/.cache/
+/reports/
+
+# Node
+/node_modules/
+package-lock.json
+
+# IDE - in case VS is used
+.idea/
+.vscode/
+
+# OS - in case Mac is used
+.DS_Store
+Thumbs.db
